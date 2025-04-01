@@ -1,9 +1,9 @@
 # Technical_Assessment
 Technical_Assessment
 💼 AI/Data Candidate Technical Assessment: 
-Objective: Evaluate Python coding skills, data analysis workflow, machine learning understanding, and ability to reason independently.
-Estimated Duration: 3–5 hours
-Submission Format: Jupyter Notebook or Python scripts + PDF summary (max 2 pages)
+- Objective: Evaluate Python coding skills, data analysis workflow, machine learning understanding, and ability to reason independently.
+- Estimated Duration: 3–5 hours
+- Submission Format: Jupyter Notebook or Python scripts + PDF summary (max 2 pages)
 ________________________________________
 🧠 Part 1: Python Fundamentals & Code Structuring (30 points)
 Task:
