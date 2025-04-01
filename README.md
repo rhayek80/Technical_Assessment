@@ -10,7 +10,7 @@ Write a Python class called AnomalyDetector that:
 -	Accepts a 1D numerical NumPy array as input.
 -	Flags any value that deviates from the mean by more than 2 standard deviations.
 -	Returns indices of anomalies.
-Requirements:
+**Requirements**:
 -	Include proper docstrings and in-code comments.
 -	Ensure code handles edge cases (e.g., empty array, non-numeric values).
 Bonus: Add a method to visualize the anomalies on a line chart using Matplotlib.
