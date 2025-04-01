@@ -43,5 +43,5 @@ Please submit your completed test within 48 hours to this public git hub repo:
 -  create a solution branch based on the main
 -  commit each part to a seperate folder
 -  make sure to add a proper documentation to each segment
--  make a finl pull request
+-  make a final pull request
 -  Ensure all code runs correctly and is self-contained.
