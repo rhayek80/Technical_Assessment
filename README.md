@@ -1,6 +1,6 @@
 # Technical_Assessment
 Technical_Assessment
-💼 AI/Data Candidate Technical Assessment: Piyush Patil
+💼 AI/Data Candidate Technical Assessment: 
 Objective: Evaluate Python coding skills, data analysis workflow, machine learning understanding, and ability to reason independently.
 Estimated Duration: 3–5 hours
 Submission Format: Jupyter Notebook or Python scripts + PDF summary (max 2 pages)
@@ -39,4 +39,9 @@ In a separate PDF file:
 
 ________________________________________
 📦 Submission:
-Please submit your completed test within 48 hours to public git hub repo .Ensure all code runs correctly and is self-contained.
+Please submit your completed test within 48 hours to this public git hub repo:
+-  create a solution branch
+-  commit each part to a seperate folder
+-  make sure to add a proper documentation to each segment
+-  make a finl pull request
+-  Ensure all code runs correctly and is self-contained.
