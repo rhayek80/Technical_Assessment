@@ -5,7 +5,7 @@
 - **Submission Format**: Jupyter Notebook or Python scripts + PDF summary (max 2 pages)
 ________________________________________
 🧠 Part 1: Python Fundamentals & Code Structuring (30 points)
-Task:
+**Task**:
 Write a Python class called AnomalyDetector that:
 -	Accepts a 1D numerical NumPy array as input.
 -	Flags any value that deviates from the mean by more than 2 standard deviations.
