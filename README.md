@@ -1,4 +1,4 @@
-# Technical_Assessment
+# Technical Assessment
 💼 AI/Data Candidate Technical Assessment: 
 - **Objective**: Evaluate Python coding skills, data analysis workflow, machine learning understanding, and ability to reason independently.
 - **Estimated Duration**: 3–5 hours
